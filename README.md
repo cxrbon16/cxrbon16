@@ -1,5 +1,5 @@
 ### Hi! I am Yavuz.
 
-I am a computer engineering student at Yildiz Technical University. 
+Computer Engineering student at Yıldız Technical University, currently researching Large Language Models (LLMs) and Reinforcement Learning.
 
 Feel free to contact with me: ayganyavuz@gmail.com
